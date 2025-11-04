@@ -1,15 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://manavpal.vercel.app" target="_blank">Manav Pal</a></h1>
 <h3 align="center">💻 Full Stack Developer | BCA Student | Tech Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/manavpal-dev">
-    <img src="https://komarev.com/ghpvc/?username=manavpal-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/manavpal-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/manavpal-dev?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me  
@@ -31,15 +22,7 @@ Currently learning **Next.js** & exploring **System Design**.
 ### 🌟 Featured Projects
 - 📰 **QuickBlog** – React-based blog platform with modern UI.  
 - 🛒 **VastraCraft** – MERN e-commerce app with product filtering & cart.  
-- 🌐 **Portfolio** – Built with React & TailwindCSS → [Live Site](https://manavpal.vercel.app)
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manavpal-dev&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manavpal-dev&theme=tokyonight" />
-</p>
+- 🌐 **Portfolio** – Built with React & TailwindCSS → [Live Site](https://manavportfoliowensite.vercel.app/)
 
 ---
 
