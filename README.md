@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://manavpal.vercel.app" target="_blank">Manav Pal</a></h1>
-<h3 align="center">💻 Full Stack Developer | BCA Student | Tech Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | BCA Graduate | Tech Enthusiast</h3>
 
 ---
 
@@ -30,7 +30,7 @@ Currently learning **Next.js** & exploring **System Design**.
 <p align="center">
   <a href="https://linkedin.com/in/manavpal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manavpal.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://manavpal.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://manavportfoliowensite.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
