@@ -4,9 +4,15 @@
 ---
 
 ### 👨‍💻 About Me  
-I'm a **Full Stack Developer** passionate about crafting modern web applications with the **MERN Stack**.  
-Focused on building user-friendly, scalable, and efficient solutions.  
-Currently learning **Next.js** & exploring **System Design**.
+Full Stack Developer focused on the MERN stack.
+I enjoy building scalable web applications and exploring backend architecture, APIs, and system design.
+
+Currently improving my skills in Next.js, performance optimization, and open source contribution.
+
+## Open Source Contributions
+
+- Currently exploring beginner-friendly open source projects
+- Interested in contributing to React, Node.js and Next.js ecosystems
 
 📫 Reach me at: [manavpal.connect@gmail.com](mailto:manavpal.connect@gmail.com)
 
