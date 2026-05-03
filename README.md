@@ -14,7 +14,7 @@ Currently improving my skills in Next.js, performance optimization, and open sou
 - Currently exploring beginner-friendly open source projects
 - Interested in contributing to React, Node.js and Next.js ecosystems
 
-📫 Reach me at: [manavpal.connect@gmail.com](mailto:manavpal.connect@gmail.com)
+📫 Reach me at: [manavpal.contact@gmail.com](mailto:manavpal.contact@gmail.com)
 
 ---
 
@@ -35,7 +35,7 @@ Currently improving my skills in Next.js, performance optimization, and open sou
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/manavpal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manavpal.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:manavpal.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://manavportfoliowensite.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
